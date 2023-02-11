@@ -1,6 +1,6 @@
 👋 Hi, I’m @namankanwar11
-- 👀 I’m interested in ... ♥️PYTHON,♥️HTML,♥️C++
-- 🌱 I’m currently learning ...🤙 Java
+- 👀 I’m interested in ... ♥️PYTHON,♥️HTML,♥️C
+- 🌱 I’m currently learning ...🤙 C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... namankanwar11@gmail.com
 
